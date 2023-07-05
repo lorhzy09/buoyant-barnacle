@@ -33,7 +33,7 @@ source: 'https://example.com/FIXME-template-source'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'lorhu09@g.ucla.edu'
 
 # Navigation ------------------------------------------------
 #
@@ -58,17 +58,18 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
+- next-episode.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
