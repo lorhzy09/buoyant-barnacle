@@ -1,7 +1,7 @@
 ---
-title: 'Introduction to Simple Linear Regression Models'
+title: 'Simple Linear Regression Models'
 teaching: 10
-exercises: 2
+exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
